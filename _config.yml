@@ -1,0 +1,28 @@
+name: dragonflyfilms
+favicon: null
+layout_spectrum: 0.8991855389904231
+typography_spectrum: 0.9458422402385622
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4260386147070676
+  lightness: 0.025691461050882936
+  saturation: 0.3793363720178604
+  rhythmicContrast: 0.5681334489490837
+purpose: []
