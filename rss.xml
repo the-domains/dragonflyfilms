@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[dragonflyfilms]]></title>
-        <description><![CDATA[dragonflyfilms]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[dragonfly films]]></title>
+        <description><![CDATA[dragonfly films]]></description>
+        <link>https://thegrid.ai/dragonflyfilms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 17:28:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 18:19:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dragonflyfilms/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined1e28c3dd-f050-4406-84ec-5ad62b820c49/index.html</link>
+            <description><![CDATA[<p>February 12/2016 GHOSTS OF INDIA was selected for the Frontieres Co-Production market in Brussels 2016! </p>]]></description>
+            <link>https://thegrid.ai/dragonflyfilms/1e28c3dd-f050-4406-84ec-5ad62b820c49/index.html</link>
             <guid isPermaLink="false">1e28c3dd-f050-4406-84ec-5ad62b820c49</guid>
-            <pubDate>Fri, 19 Feb 2016 17:28:30 GMT</pubDate>
+            <pubDate>Fri, 19 Feb 2016 18:19:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
