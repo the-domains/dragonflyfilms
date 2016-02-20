@@ -4,8 +4,15 @@
         <description><![CDATA[dragonfly films]]></description>
         <link>https://thegrid.ai/dragonflyfilms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 21:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 21:48:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dragonflyfilms/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ADVENTURES OF A MATHEMATICIAN]]></title>
+            <description><![CDATA[<article><h1>ADVENTURES OF A MATHEMATICIAN</h1><p>drama/ biopic</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd45d156127986ec0524ad71cdf6cc9edf5d4633.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dragonflyfilms/adventures-of-a-mathematician/index.html</link>
+            <guid isPermaLink="false">0a4c2be6-9353-4435-98b5-027ac127d06a</guid>
+            <pubDate>Sat, 20 Feb 2016 21:31:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GHOSTS OF INDIA ]]></title>
             <description><![CDATA[<article><h1>GHOSTS OF INDIA </h1><p>Fantasy Romance</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c99bb0f9cdf2853231e9ce030f85c21d6fa393d2.jpg"></article>]]></description>
@@ -35,15 +42,8 @@
             <pubDate>Sat, 20 Feb 2016 19:22:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ADVENTURES OF A MATHEMATICIAN]]></title>
-            <description><![CDATA[<article><h1>ADVENTURES OF A MATHEMATICIAN</h1><p>drama/ biopic</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd45d156127986ec0524ad71cdf6cc9edf5d4633.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dragonflyfilms/adventures-of-a-mathematician/index.html</link>
-            <guid isPermaLink="false">0a4c2be6-9353-4435-98b5-027ac127d06a</guid>
-            <pubDate>Sat, 20 Feb 2016 19:26:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[about dragonfly films]]></title>
-            <description><![CDATA[<article><h1>about dragonfly films</h1><p>She graduated at the dffb (German Film- and Television Academy Berlin) and won the Film Prize of the Robert Bosch Foundation with the animation film THE LITTLE RED PAPER SHIP. Her first feature LOST PLACE, a mystery-thriller in 3D and Dolby Atmos was theatrically released by Warner Bros and got her the nomination for the newcomer producer award by First Steps 2014. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/010d6f1846e58f00e2891d420439bfcfb351ee47.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>about dragonfly films</h1><p>She graduated at the dffb (German Film- and Television Academy Berlin) and won the Film Prize of the Robert Bosch Foundation with the animation film THE LITTLE RED PAPER SHIP. Her first feature LOST PLACE, a mystery-thriller in 3D and Dolby Atmos was theatrically released by Warner Bros and got her the nomination for the newcomer producer award by First Steps 2014. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4377b73ac27832b161ff87e76098c86ae31c1ddc.jpg"></article>]]></description>
             <link>https://thegrid.ai/dragonflyfilms/about-dragonfly-films/index.html</link>
             <guid isPermaLink="false">f0294c80-58ab-470a-bdb9-3c354918e247</guid>
             <pubDate>Sat, 20 Feb 2016 21:31:03 GMT</pubDate>
@@ -63,11 +63,11 @@
             <pubDate>Sat, 20 Feb 2016 19:31:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b6e071-1d0d-4447-a8fc-1966dbc354d0.jpg">]]></description>
+            <title><![CDATA[NEWS - February 12/2016 -                                                     ]]></title>
+            <description><![CDATA[<article><h1>NEWS - February 12/2016 -                                                     </h1><p>GHOSTS OF INDIA is selected for the Frontieres Co-Production market in Brussels 2016!   </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebb11c95d0da8b19be3fa01ee73f9c113f0a19aa.jpg"></article>]]></description>
             <link>https://thegrid.ai/dragonflyfilms/1e28c3dd-f050-4406-84ec-5ad62b820c49/index.html</link>
             <guid isPermaLink="false">1e28c3dd-f050-4406-84ec-5ad62b820c49</guid>
-            <pubDate>Sat, 20 Feb 2016 09:37:03 GMT</pubDate>
+            <pubDate>Sat, 20 Feb 2016 21:47:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
