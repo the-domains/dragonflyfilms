@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T16:56:25.493Z'
-dateModified: '2016-02-20T16:09:06.209Z'
-title: LOST PLACE 3D
+datePublished: '2016-02-20T17:00:35.093Z'
+dateModified: '2016-02-20T16:58:48.291Z'
+title: LOST PLACE
 author: []
 sourcePath: _posts/2016-02-20-lost-place-3d.md
 published: true
@@ -22,9 +22,13 @@ url: lost-place-3d/index.html
 _type: Article
 
 ---
-# [LOST PLACE 3D][0]
+# [LOST PLACE][0]
 
-3D Mystery-Thriller mixed in Dolby Atmos
+Mystery-Thriller 
+
+- shot in 3D / mixed in Dolby Atmos - 
+
+101 Min.
 
 writer/director Thor Klein
 
