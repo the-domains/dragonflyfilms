@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T21:31:03.743Z'
-dateModified: '2016-02-20T19:32:43.019Z'
+datePublished: '2016-02-20T21:59:07.629Z'
+dateModified: '2016-02-20T21:58:56.934Z'
 title: about dragonfly films
 author: []
 sourcePath: _posts/2016-02-20-about-dragonfly-films.md
@@ -35,4 +35,4 @@ She graduated in October 2015 at eave European Producers Workshop with her curre
 She is co-producing the debut movie of Indian director Dipesh Jain IN THE SHADOWS to be shot mid 2016 and develops several new projects, one of them is the adaptation of the autobiography ADVENTURES OF A MATHEMATICIAN by Stanislaw Ulam.
 
 She is also Head of Acquisitions for German independent film distributor NFP m&d and acquired titles such as THE BRAND NEW TESTAMENT, THE LUNCHBOX and THE SALT OF THE EARTH.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/955a62ff-a0d1-4259-b5f2-c36288b35518.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c579372-c82a-4449-ad01-ade2622fa734.jpg)
