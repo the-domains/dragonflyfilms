@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T16:54:23.911Z'
-dateModified: '2016-02-20T16:01:31.520Z'
+datePublished: '2016-02-20T17:33:22.919Z'
+dateModified: '2016-02-20T17:33:15.714Z'
 title: ADVENTURES OF A MATHEMATICIAN
 author: []
 authors: []
