@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T18:24:10.411Z'
-dateModified: '2016-02-20T17:56:05.460Z'
+datePublished: '2016-02-20T19:09:39.037Z'
+dateModified: '2016-02-20T18:43:20.895Z'
 title: IN THE SHADOWS
 author: []
 authors: []
@@ -33,3 +33,9 @@ writer/director Dipesh Jain
 producers S. Jain/ D. Jain/ L. Vurma
 
 INDIA/ UK / GERMANY
+
+* Finalist Sundance Screenwriting Filmlab 2015
+* Finalist Torino Script& Pitch Lab 2015
+* Finalist TriBeCa All Access 2016
+
+> The story of a man trapped within the walls of the old city of Delhi and his own mind who attempts to break free to find a human connection...
