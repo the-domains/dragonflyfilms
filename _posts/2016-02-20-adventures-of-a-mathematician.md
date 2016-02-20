@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-20T19:26:37.578Z'
-dateModified: '2016-02-20T19:26:20.000Z'
+datePublished: '2016-02-20T21:31:55.997Z'
+dateModified: '2016-02-20T19:43:58.301Z'
 title: ADVENTURES OF A MATHEMATICIAN
 author: []
 sourcePath: _posts/2016-02-20-adventures-of-a-mathematician.md
