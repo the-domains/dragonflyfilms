@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T16:59:56.097Z'
-dateModified: '2016-02-20T16:53:35.392Z'
+datePublished: '2016-02-20T17:01:18.268Z'
+dateModified: '2016-02-20T17:01:04.962Z'
 title: about dragonfly films
 author: []
 sourcePath: _posts/2016-02-20-about-dragonfly-films.md
@@ -26,7 +26,7 @@ _type: Article
 
 ## about dragonfly films
 
-Lena Vurma is a Swiss writer/producer based in Berlin and works under the name dragonfly films. 
+Lena Vurma is a Swiss writer/producer based in Berlin. 
 
 She graduated at the dffb (German Film- and Television Academy Berlin) and won the Film Prize of the Robert Bosch Foundation with the animation film THE LITTLE RED PAPER SHIP. Her first feature LOST PLACE, a mystery-thriller in 3D and Dolby Atmos was theatrically released by Warner Bros and got her the nomination for the newcomer producer award by First Steps 2014\. 
 
