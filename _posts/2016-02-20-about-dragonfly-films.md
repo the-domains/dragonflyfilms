@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T17:01:18.268Z'
-dateModified: '2016-02-20T17:01:04.962Z'
+datePublished: '2016-02-20T19:10:24.837Z'
+dateModified: '2016-02-20T19:10:24.424Z'
 title: about dragonfly films
 author: []
 sourcePath: _posts/2016-02-20-about-dragonfly-films.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcfb753b-97db-46f1-a261-2541b0c63472.jpg)
 
-## about dragonfly films
+# about dragonfly films
 
 Lena Vurma is a Swiss writer/producer based in Berlin. 
 
