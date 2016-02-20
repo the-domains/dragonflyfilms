@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T19:09:54.327Z'
-dateModified: '2016-02-20T19:09:53.758Z'
+datePublished: '2016-02-20T19:22:39.337Z'
+dateModified: '2016-02-20T19:22:21.549Z'
 title: LOST PLACE
 author: []
 sourcePath: _posts/2016-02-20-lost-place-3d.md
@@ -42,6 +42,7 @@ producer Alex Weimer/ Esther Friedrich (MovieBrats)
 * Winner Int. 3D Film Festival Belgium "Best 3D Film with immersive 3D sound"
 * nomination No Fear Award by First Steps
 * nomination Jerry Goldsmith "Best Score" Award
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/584b88fb-1644-47f1-b909-524150c17465.jpg)
 
 > While on a GPS treasure hunt in the Palatinate forest, four teenagers come across an abandoned US military radio tower station that once was part of a secret military program with horrible side effects.
 
