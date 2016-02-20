@@ -2,6 +2,7 @@ name: dragonfly films
 favicon: null
 layout_spectrum: 0.75872
 typography_spectrum: 0.38874
+title: dragonfly films
 cta:
   domain: null
   bucket: null
