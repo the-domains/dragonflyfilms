@@ -6,23 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T11:31:16.262Z'
-dateModified: '2016-02-20T11:30:48.365Z'
+datePublished: '2016-02-20T16:59:56.097Z'
+dateModified: '2016-02-20T16:53:35.392Z'
 title: about dragonfly films
 author: []
+sourcePath: _posts/2016-02-20-about-dragonfly-films.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-20-about-dragonfly-films.md
-published: true
 url: about-dragonfly-films/index.html
 _type: Article
 
 ---
-# about dragonfly films
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcfb753b-97db-46f1-a261-2541b0c63472.jpg)
+
+## about dragonfly films
 
 Lena Vurma is a Swiss writer/producer based in Berlin and works under the name dragonfly films. 
 
@@ -33,4 +35,3 @@ She graduated in October 2015 at eave European Producers Workshop with her curre
 She is co-producing the debut movie of Indian director Dipesh Jain IN THE SHADOWS to be shot mid 2016 and develops several new projects, one of them is the adaptation of the autobiography ADVENTURES OF A MATHEMATICIAN by Stanislaw Ulam.
 
 She is also Head of Acquisitions for German independent film distributor NFP m&d and acquired titles such as THE BRAND NEW TESTAMENT, THE LUNCHBOX and THE SALT OF THE EARTH.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcfb753b-97db-46f1-a261-2541b0c63472.jpg)
