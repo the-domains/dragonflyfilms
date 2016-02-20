@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T19:09:39.037Z'
-dateModified: '2016-02-20T18:43:20.895Z'
+datePublished: '2016-02-20T19:20:50.535Z'
+dateModified: '2016-02-20T19:20:21.003Z'
 title: IN THE SHADOWS
 author: []
+sourcePath: _posts/2016-02-20-in-the-shadows.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-20-in-the-shadows.md
-published: true
 url: in-the-shadows/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7421a699-db09-45f3-8178-e04ca6d6c8c2.jpg)
+
 # IN THE SHADOWS
 
 psychological drama
