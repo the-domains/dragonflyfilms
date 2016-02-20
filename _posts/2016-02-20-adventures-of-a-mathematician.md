@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T17:33:22.919Z'
-dateModified: '2016-02-20T17:33:15.714Z'
+datePublished: '2016-02-20T18:01:59.029Z'
+dateModified: '2016-02-20T18:01:30.704Z'
 title: ADVENTURES OF A MATHEMATICIAN
 author: []
 authors: []
