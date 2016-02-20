@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T18:17:58.696Z'
-dateModified: '2016-02-20T18:17:48.689Z'
+datePublished: '2016-02-20T19:09:25.200Z'
+dateModified: '2016-02-20T18:38:47.016Z'
 title: THE LITTLE RED PAPER SHIP
 author: []
 authors: []
@@ -38,5 +38,11 @@ In Co-Production with 2001Marek Rudnicki, Odeon Film Studio &Minimondo
 * Audience Award Kameralne Lato Film Festival
 * Winner best short movie Kino Jazda Children Film Festival 
 * Winner 2nd prize Animocje Film Festival 
+* Sold to Benelux/ France/ UK/ German TV
+* screened at over 50 festivals
+
+> A poetic story about the courage to venture out into the big wide world.
+
+
 
 [0]: https://www.youtube.com/watch?v=fyqER8Rwd7g
