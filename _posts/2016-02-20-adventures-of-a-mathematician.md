@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T15:58:50.312Z'
-dateModified: '2016-02-20T15:58:02.051Z'
+datePublished: '2016-02-20T16:54:23.911Z'
+dateModified: '2016-02-20T16:01:31.520Z'
 title: ADVENTURES OF A MATHEMATICIAN
 author: []
 authors: []
@@ -26,7 +26,7 @@ _type: Article
 
 a film by Thor Klein
 
-based on the autobiography by Stanislaw Ulam
+based on the autobiography by Stanislaw M. Ulam
 
 produced by Lena Vurma
 
