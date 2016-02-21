@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T19:22:39.337Z'
-dateModified: '2016-02-20T19:22:21.549Z'
+datePublished: '2016-02-21T13:34:45.875Z'
+dateModified: '2016-02-21T13:34:31.766Z'
 title: LOST PLACE
 author: []
 sourcePath: _posts/2016-02-20-lost-place-3d.md
@@ -45,7 +45,9 @@ producer Alex Weimer/ Esther Friedrich (MovieBrats)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/584b88fb-1644-47f1-b909-524150c17465.jpg)
 
 > While on a GPS treasure hunt in the Palatinate forest, four teenagers come across an abandoned US military radio tower station that once was part of a secret military program with horrible side effects.
+> 
+> 
 
-
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c155cf2-e8be-4320-8b2c-6ba010a4f9a6.jpg)
 
 [0]: https://www.youtube.com/watch?v=L8HkFIqgvn0
