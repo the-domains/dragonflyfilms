@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "She graduated at the dffb (German Film- and Television Academy Berlin) and won the Film Prize of the Robert Bosch Foundation with the animation film THE LITTLE RED PAPER SHIP. Her first feature LOST PLACE, a mystery-thriller in 3D and Dolby Atmos was theatrically released by Warner Bros and got her the nomination for the newcomer producer award by First Steps 2014.\_"
-datePublished: '2016-03-12T13:38:38.996Z'
-dateModified: '2016-03-12T13:29:49.316Z'
+datePublished: '2016-03-12T13:51:10.439Z'
+dateModified: '2016-03-12T13:38:46.874Z'
 title: about dragonfly films
 author: []
 sourcePath: _posts/2016-02-20-about-dragonfly-films.md
