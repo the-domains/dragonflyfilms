@@ -1,7 +1,7 @@
 name: dragonfly films
 favicon: null
-layout_spectrum: 0.6003
-typography_spectrum: 0.57564
+layout_spectrum: 0.65845
+typography_spectrum: 0.57149
 title: dragonfly films
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#050706'
-    - '#fcfefd'
-    - '#00c8b1'
-    - '#2a8446'
-    - '#5fbc56'
-  brandStrength: 0.0625
-  lightness: 0.75
-  saturation: 0.75
-  rhythmicContrast: 0.5
+    - '#fee703'
+    - '#050704'
+    - '#fefdf8'
+    - '#1b4e47'
+    - '#7b8121'
+  brandStrength: 0.25
+  lightness: 0.8125
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
