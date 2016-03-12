@@ -1,6 +1,6 @@
 name: dragonfly films
 favicon: null
-layout_spectrum: 0.35376
+layout_spectrum: 0.26653
 typography_spectrum: 0.57149
 title: dragonfly films
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.0625
   lightness: 0.8125
   saturation: 0.8125
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
