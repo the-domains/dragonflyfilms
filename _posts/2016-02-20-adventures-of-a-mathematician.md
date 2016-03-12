@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-20T21:31:55.997Z'
-dateModified: '2016-02-20T19:43:58.301Z'
+description: drama/ biopic
+datePublished: '2016-03-12T12:44:50.979Z'
+dateModified: '2016-03-12T12:44:39.744Z'
 title: ADVENTURES OF A MATHEMATICIAN
 author: []
 sourcePath: _posts/2016-02-20-adventures-of-a-mathematician.md
@@ -36,9 +36,10 @@ based on the autobiography by Stanislaw M. Ulam
 
 produced by Lena Vurma
 
-Polish co-producer Joanna Szymanska
+Polish co-producer Joanna Szymanska/ Shipsboy
 
 supported by the German-Polish Co-Development Fund
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b681c76c-5c41-4692-8694-14cc3addb0d8.jpg)
 
 > ADVENTURES OF A MATHEMATICIAN is a humorous drama about the life of the Polish mathematician
 > Stanislav Ulam. The movie is based on the autobiography with the same title and is an engaging
