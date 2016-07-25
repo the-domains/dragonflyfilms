@@ -5,14 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: >-
-  She graduated at the prestigious film school dffb (German Film- and Television
-  Academy Berlin) and won the Film Prize of the Robert Bosch Foundation with the
-  animation film THE LITTLE RED PAPER SHIP. Her first feature LOST PLACE, a
-  mystery-thriller in 3D and Dolby Atmos was theatrically released by Warner
-  Bros and got her the nomination for the newcomer producer award by First Steps
-  2014. 
-datePublished: '2016-07-25T16:36:54.416Z'
-dateModified: '2016-07-25T16:28:22.298Z'
+  She graduated in October 2015 at eave European Producers Workshop with her
+  current feature film GHOSTS OF INDIA – an international co-production now in
+  packaging/financing (winner of the IndoGerman Screenwriting Award, a 2 months
+  artist in residency in Mumbai, supported by the project development fund of
+  MBB and selected fort he Frontieres co-production market 2016 in Brussels).
+datePublished: '2016-07-25T16:43:07.653Z'
+dateModified: '2016-07-25T16:42:57.059Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-20-about-dragonfly-films.md
@@ -32,9 +31,7 @@ _type: Article
 
 # about dragonfly films
 
-Lena Vurma is a Swiss writer/producer based in Berlin. 
-
-She graduated at the prestigious film school dffb (German Film- and Television Academy Berlin) and won the Film Prize of the Robert Bosch Foundation with the animation film THE LITTLE RED PAPER SHIP. Her first feature LOST PLACE, a mystery-thriller in 3D and Dolby Atmos was theatrically released by Warner Bros and got her the nomination for the newcomer producer award by First Steps 2014\. 
+Lena Vurma is a Swiss writer/producer based in Berlin. She graduated at the prestigious film school dffb (German Film- and Television Academy Berlin) and won the Film Prize of the Robert Bosch Foundation with the animation film THE LITTLE RED PAPER SHIP. Her first feature LOST PLACE, a mystery-thriller in 3D and Dolby Atmos was theatrically released by Warner Bros and got her the nomination for the newcomer producer award by First Steps 2014\. 
 
 She graduated in October 2015 at eave European Producers Workshop with her current feature film GHOSTS OF INDIA -- an international co-production now in packaging/financing (winner of the IndoGerman Screenwriting Award, a 2 months artist in residency in Mumbai, supported by the project development fund of MBB and selected fort he Frontieres co-production market 2016 in Brussels).
 
