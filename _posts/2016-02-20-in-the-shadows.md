@@ -1,34 +1,30 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-20T19:20:50.535Z'
-dateModified: '2016-02-20T19:20:21.003Z'
+description: psychological drama
+datePublished: '2016-07-25T16:36:22.187Z'
+dateModified: '2016-07-25T16:23:54.999Z'
 title: IN THE SHADOWS
 author: []
 sourcePath: _posts/2016-02-20-in-the-shadows.md
-published: true
+via: {}
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+starred: false
 url: in-the-shadows/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7421a699-db09-45f3-8178-e04ca6d6c8c2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/971608d5-07b4-42fc-8e57-451e893f65c7.jpg)
 
 # IN THE SHADOWS
 
 psychological drama
 
-- shoot in summer 2016 - 
+- shoot in July/ August 2016 - 
 
 writer/director Dipesh Jain
 
