@@ -4,7 +4,7 @@
         <description><![CDATA[dragonfly films]]></description>
         <link>https://thegrid.ai/dragonflyfilms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 16:36:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 16:36:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dragonflyfilms/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[NEWS ]]></title>
@@ -28,6 +28,13 @@
             <pubDate>Sat, 12 Mar 2016 11:18:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[about dragonfly films]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c579372-c82a-4449-ad01-ade2622fa734.jpg">]]></description>
+            <link>https://thegrid.ai/dragonflyfilms/about-dragonfly-films/index.html</link>
+            <guid isPermaLink="false">f0294c80-58ab-470a-bdb9-3c354918e247</guid>
+            <pubDate>Mon, 25 Jul 2016 16:36:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[IN THE SHADOWS]]></title>
             <description><![CDATA[<article><h1>IN THE SHADOWS</h1><p>psychological drama</p></article>]]></description>
             <link>https://thegrid.ai/dragonflyfilms/in-the-shadows/index.html</link>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/dragonflyfilms/63ecf233-93cb-42de-9e3b-992b058903d0/index.html</link>
             <guid isPermaLink="false">63ecf233-93cb-42de-9e3b-992b058903d0</guid>
             <pubDate>Mon, 14 Mar 2016 12:20:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[about dragonfly films]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c579372-c82a-4449-ad01-ade2622fa734.jpg">]]></description>
-            <link>https://thegrid.ai/dragonflyfilms/about-dragonfly-films/index.html</link>
-            <guid isPermaLink="false">f0294c80-58ab-470a-bdb9-3c354918e247</guid>
-            <pubDate>Sat, 12 Mar 2016 13:51:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LOST PLACE]]></title>
