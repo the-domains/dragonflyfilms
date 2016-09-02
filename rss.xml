@@ -4,7 +4,7 @@
         <description><![CDATA[dragonfly films]]></description>
         <link>https://thegrid.ai/dragonflyfilms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 09:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 09:20:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dragonflyfilms/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[NEWS ]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/dragonflyfilms/deec7a16-818f-4711-8d80-385723220c06/index.html</link>
             <guid isPermaLink="false">deec7a16-818f-4711-8d80-385723220c06</guid>
             <pubDate>Sat, 12 Mar 2016 11:18:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[THE LITTLE RED PAPER SHIP]]></title>
+            <description><![CDATA[<article><h1>THE LITTLE RED PAPER SHIP</h1><p>short animation 13Min/ 7Min</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de18ca87ccbe841fce3ffe37a174432db9e85cfc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dragonflyfilms/the-little-red-paper-ship/index.html</link>
+            <guid isPermaLink="false">2d7cd178-4a03-4ff4-91b6-790d339b2b2b</guid>
+            <pubDate>Wed, 31 Aug 2016 09:20:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IN THE SHADOWS]]></title>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/dragonflyfilms/lost-place-3d/index.html</link>
             <guid isPermaLink="false">772cdc88-08c4-4276-bb49-b066054e96e1</guid>
             <pubDate>Sun, 21 Feb 2016 13:34:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[THE LITTLE RED PAPER SHIP]]></title>
-            <description><![CDATA[<article><h1>THE LITTLE RED PAPER SHIP</h1><p>short animation 13Min/ 7Min</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a7d8d96a3c153d2839bbe2ec6f6b0b750ea2e00.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dragonflyfilms/the-little-red-paper-ship/index.html</link>
-            <guid isPermaLink="false">2d7cd178-4a03-4ff4-91b6-790d339b2b2b</guid>
-            <pubDate>Sat, 20 Feb 2016 21:30:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
