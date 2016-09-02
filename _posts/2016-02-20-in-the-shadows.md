@@ -5,15 +5,15 @@ inNav: true
 inLanguage: null
 keywords: []
 description: psychological drama
-datePublished: '2016-08-31T09:09:09.370Z'
-dateModified: '2016-07-25T17:39:21.942Z'
+datePublished: '2016-08-31T09:20:27.312Z'
+dateModified: '2016-08-31T09:20:09.920Z'
 title: IN THE SHADOWS
 author: []
 sourcePath: _posts/2016-02-20-in-the-shadows.md
 via: {}
 authors: []
 publisher: {}
-starred: false
+starred: true
 url: in-the-shadows/index.html
 _type: Article
 
