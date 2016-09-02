@@ -5,13 +5,12 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-20T21:30:31.676Z'
-dateModified: '2016-02-20T21:30:24.716Z'
+description: short animation 13Min/ 7Min
+datePublished: '2016-08-31T09:20:02.287Z'
+dateModified: '2016-03-14T18:23:05.194Z'
 title: THE LITTLE RED PAPER SHIP
 author: []
 sourcePath: _posts/2016-02-20-the-little-red-paper-ship.md
-published: true
 authors: []
 publisher:
   name: null
@@ -46,5 +45,7 @@ In Co-Production with 2001Marek Rudnicki, Odeon Film Studio &Minimondo
 > A poetic story about the courage to venture out into the big wide world.
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77dd6fe1-bda9-4c21-b5b1-a446c696bdcd.jpg)
+
+https://www.facebook.com/TheLittleRedPaperShip/
 
 [0]: https://www.youtube.com/watch?v=fyqER8Rwd7g
