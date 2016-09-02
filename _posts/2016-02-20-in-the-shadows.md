@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: psychological drama
-datePublished: '2016-07-25T16:44:11.767Z'
-dateModified: '2016-07-25T16:44:11.059Z'
+datePublished: '2016-08-31T09:09:09.370Z'
+dateModified: '2016-07-25T17:39:21.942Z'
 title: IN THE SHADOWS
 author: []
 sourcePath: _posts/2016-02-20-in-the-shadows.md
@@ -24,7 +24,7 @@ _type: Article
 
 psychological drama
 
-- shoot in July/ August 2016 - 
+- shoot July/ August 2016 - 
 
 writer/director Dipesh Jain
 
